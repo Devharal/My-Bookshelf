@@ -6,7 +6,7 @@
 
 
 
-This is simple Bookshelf Library made using html and css.I have also added another website which to contain same contained.
+This is simple Bookshelf Library made using html and css.I have also added another website(repo-https://github.com/Devharal/Bookshelf) which to contain same contained.
 I have launched website using github .This project is only frontend .
 
 Link for website https://devharal.github.io/My-Bookshelf/
