@@ -11,4 +11,6 @@ I have launched website using github .This project is only frontend .
 
 Link for website https://devharal.github.io/My-Bookshelf/
 
+Something extraordinary in this project is use CSS for building real life look like library.  
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
